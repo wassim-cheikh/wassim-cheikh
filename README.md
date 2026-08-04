@@ -1,24 +1,31 @@
-# Hi, I'm Wassim Cheikh 👋
+# Hi, I'm Wassim Cheikh
 
 ### Backend & Automation Engineer
 
-I build reliable backend services, automation systems, ETL pipelines, and machine-learning integrations for international teams and clients.
+I build reliable backend services, automation systems, ETL pipelines, and applied AI products for international teams and clients.
 
-- 🔭 Currently working on backend, automation, and applied AI projects
-- 🏆 Upwork Top Rated Plus · 30+ completed jobs · 100% Job Success Score
-- 🌍 Based in Tunis, Tunisia · Open to relocation
-- 💬 Ask me about Python, FastAPI, data pipelines, browser automation, and AWS
-- 📫 Reach me at **wassimcheikh.07@gmail.com**
+- Upwork **Top Rated Plus** with **30+ completed jobs** and a **100% Job Success Score**
+- Based in Tunis, Tunisia and open to relocation
+- Interested in backend architecture, data platforms, automation, and applied AI
+- Reach me at **wassimcheikh.07@gmail.com**
 
 ## Core stack
 
 `Python` · `FastAPI` · `Django` · `PostgreSQL` · `Redis` · `Celery` · `Docker` · `AWS` · `Kubernetes` · `Pytest`
 
-## Selected work
+## Selected engineering work
 
-- **[Easy Travel Agent](https://github.com/wassim-cheikh/Easy-travel)** — Stateful FastAPI travel assistant with LLM-driven recommendations and tests.
-- **[Facebook Post Scraper](https://github.com/wassim-cheikh/Facebook-Post-Scraper)** — Browser-automation pipeline for extracting and structuring keyword-matched posts.
-- **[Reddit Bot](https://github.com/wassim-cheikh/Reddit-Bot)** — Configurable Selenium automation for Reddit workflows.
+### [Easy Travel Agent](https://github.com/wassim-cheikh/Easy-travel)
+
+Stateful AI travel-planning platform built with FastAPI and LangGraph. Includes durable conversation storage, multi-intent routing, external hotel search, bilingual prompts, Docker, CI, and isolated tests.
+
+### [QueueForge](https://github.com/wassim-cheikh/queueforge)
+
+Durable background-job orchestration API implementing idempotent submission, atomic worker leases, priorities, scheduling, crash recovery, exponential retries, dead-letter handling, and Prometheus metrics.
+
+### [DataHarbor](https://github.com/wassim-cheikh/dataharbor)
+
+Contract-driven ingestion and data-quality platform for CSV, JSON, and JSONL. Provides type coercion, schema-drift detection, deduplication, quarantine, lineage, quality reporting, and reproducible exports.
 
 ## Connect
 
