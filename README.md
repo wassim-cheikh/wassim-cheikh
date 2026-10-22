@@ -7,7 +7,7 @@ I build reliable backend services, automation systems, ETL pipelines, and applie
 - Upwork **Top Rated Plus** with **30+ completed jobs** and a **100% Job Success Score**
 - Based in Tunis, Tunisia and open to relocation
 - Interested in backend architecture, data platforms, automation, and applied AI
-- Portfolio: **[View my portfolio](https://wassim-cheikh-portfolio-16b1bu.v2.appdeploy.ai/)**
+- Portfolio: **[wassimcheikh.dev](https://wassimcheikh.dev)**
 - Reach me at **wassimcheikh.07@gmail.com**
 
 ## Core stack
@@ -30,4 +30,4 @@ Contract-driven ingestion and data-quality platform for CSV, JSON, and JSONL. Pr
 
 ## Connect
 
-[Portfolio](https://wassim-cheikh-portfolio-16b1bu.v2.appdeploy.ai/) · [LinkedIn](https://www.linkedin.com/in/wassim-cheikh) · [Upwork](https://www.upwork.com/freelancers/~019a01e4e340a3d051) · [Email](mailto:wassimcheikh.07@gmail.com)
+[Portfolio](https://wassimcheikh.dev) · [LinkedIn](https://www.linkedin.com/in/wassim-cheikh) · [Upwork](https://www.upwork.com/freelancers/~019a01e4e340a3d051) · [Email](mailto:wassimcheikh.07@gmail.com)
